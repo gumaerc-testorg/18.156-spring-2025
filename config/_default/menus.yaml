@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 1346c613-22cf-4c20-8764-72e38f4b9241
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: adc05488-8a46-47e3-a271-49558c4a1270
+  name: Lecture Notes
+  pageRef: /lists/lecture-notes
+  weight: 20
+- identifier: e0ad7e0d-45b0-4281-aba2-b4a27594190e
+  name: Problem Sets
+  pageRef: /lists/problem-sets
+  weight: 30
+- identifier: d64eb800-3a7f-4f7a-a1d9-a59d8b682fb9
+  name: Final Project
+  pageRef: /pages/final-project
+  weight: 40

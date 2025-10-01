@@ -43,11 +43,11 @@ The final project will be a 5-10 page paper. There will be a first draft due in 
 ## Some Reading Ideas
 
 Reading on the central limit theorem for convex bodies. See         
-[https://www.ams.org/journals/tran/2003-355-12/S0002-9947-03-03085-X/S0002-9947-03-03085-X.pdf](https://www.ams.org/journals/tran/2003-355-12/S0002-9947-03-03085-X/S0002-9947-03-03085-X.pdf)         
-[https://arxiv.org/abs/math/0605014](https://arxiv.org/abs/math/0605014)
+{{% resource_link "6727cdb8-9e8f-42b1-8918-50f9c0665cf7" "https://www.ams.org/journals/tran/2003-355-12/S0002-9947-03-03085-X/S0002-9947-03-03085-X.pdf" %}}         
+{{% resource_link "c210bf3f-32e4-40c3-974b-85e9a726fbc8" "https://arxiv.org/abs/math/0605014" %}}
 
 The sum-product theorem in finite fields by Bourgain-Katz-Tao. We discussed many parts of this paper, but there is a little more to read to get the full sum-product theorem, saying that if \\(A \\subset \\mathbb{F}\_p\\) with \\(|A| = p^s\\) and \\(0 < s < 1\\), then \\(\\max(|A+ A|, |A \\cdot A|) \\ge p^s + \\epsilon(s)\\). See        
-[https://arxiv.org/abs/math/0301343](https://arxiv.org/abs/math/0301343)
+{{% resource_link "e15c5ca8-aa7e-4bf3-b8a0-0b2d93a51d31" "https://arxiv.org/abs/math/0301343" %}}
 
 Plunnecke inequality.  Reading the older proof of Plunnecke-Ruzsa and comparing it to the slick proof that we saw in class. See        
 file:///Users/lguth/Downloads/978-1-4939-1601-6.pdf and references therein
@@ -56,5 +56,5 @@ Suppose that \\(\\pi\_p: \\mathbb{Z}^d \\rightarrow \\mathbb{Z}\_p^d\\) is red
 file:///Users/lguth/Downloads/00127094-1645788.pdf
 
 The Bombieri-Vinogradov theorem.  We discussed some of the ideas in class.  Try to fill in the details and perhaps compare your work with proofs in the literature.   For a source from the literature,  see the book by Iwaniec Kowalski or        
-[https://terrytao.wordpress.com/2015/01/10/254a-notes-3-the-large-sieve-and-the-bombieri-vinogradov-theorem/](https://terrytao.wordpress.com/2015/01/10/254a-notes-3-the-large-sieve-and-the-bombieri-vinogradov-theorem/)        
+{{% resource_link "dd9fa5a0-3171-4bd4-a459-c0049ae8aac1" "https://terrytao.wordpress.com/2015/01/10/254a-notes-3-the-large-sieve-and-the-bombieri-vinogradov-theorem/" %}}        
 (If you can't read that whole thing, google "Tao Bombieri Vinogradov" or let me know.)

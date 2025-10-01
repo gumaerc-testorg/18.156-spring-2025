@@ -41,18 +41,18 @@ The final project will be a 5-10 page paper. There will be a first draft due in 
 ## Some Reading Ideas
 
 Reading on the central limit theorem for convex bodies. See                  
-[The Central Limit Problem for Convex Bodies](https://www.ams.org/journals/tran/2003-355-12/S0002-9947-03-03085-X/S0002-9947-03-03085-X.pdf)                  
-[A Central Limit Theorem for Convex Sets](https://arxiv.org/abs/math/0605014)
+{{% resource_link "6727cdb8-9e8f-42b1-8918-50f9c0665cf7" "The Central Limit Problem for Convex Bodies" %}}                  
+{{% resource_link "c210bf3f-32e4-40c3-974b-85e9a726fbc8" "A Central Limit Theorem for Convex Sets" %}}
 
 The sum-product theorem in finite fields by Bourgain-Katz-Tao. We discussed many parts of this paper, but there is a little more to read to get the full sum-product theorem, saying that if \\(A \\subset \\mathbb{F}\_p\\) with \\(|A| = p^s\\) and \\(0 < s < 1\\), then \\(\\max(|A+ A|, |A \\cdot A|) \\ge p^s + \\epsilon(s)\\). See                 
-[A Sum-Product Estimate in Finite Fields, and Applications](https://arxiv.org/abs/math/0301343)
+{{% resource_link "e15c5ca8-aa7e-4bf3-b8a0-0b2d93a51d31" "A Sum-Product Estimate in Finite Fields, and Applications" %}}
 
 Plunnecke inequality.  Reading the older proof of Plunnecke-Ruzsa and comparing it to the slick proof that we saw in class. See   
-Chapter 1 of [Sumsets and Structure](https://www.math.cmu.edu/users/af1p/Teaching/AdditiveCombinatorics/Additive-Combinatorics.pdf)             
+Chapter 1 of {{% resource_link "9e7a051d-ed42-4ddd-8077-417b028c9fec" "Sumsets and Structure" %}}             
 
 Suppose that \\(\\pi\_p: \\mathbb{Z}^d \\rightarrow \\mathbb{Z}\_p^d\\) is reduction modulo \\(p\\).   Suppose that \\(A \\subset \\mathbb{Z}^d\\) and that \\(| \\pi\_p(A)|\\) is small for many primes \\(p\\).   The known examples of this phenomenon have a lot of algebraic and number theoretic structure.   The inverse problem for the large sieve asks whether all such examples have a lot of structure.   The most interesting work on the problem was done by Miguel Walsh,  and could be a good reading project. See                 
-[The Inverse Sieve Problem in High Dimensions](https://arxiv.org/abs/1105.1551)
+{{% resource_link "e81412ea-e3f2-4002-90d9-e850593678f6" "The Inverse Sieve Problem in High Dimensions" %}}
 
 The Bombieri-Vinogradov theorem.  We discussed some of the ideas in class.  Try to fill in the details and perhaps compare your work with proofs in the literature.   For a source from the literature,  see the book by Iwaniec Kowalski or                 
-[The Large Sieve and the Bombieri-Vinogradov Theorem](https://terrytao.wordpress.com/2015/01/10/254a-notes-3-the-large-sieve-and-the-bombieri-vinogradov-theorem/)                 
+{{% resource_link "dd9fa5a0-3171-4bd4-a459-c0049ae8aac1" "The Large Sieve and the Bombieri-Vinogradov Theorem" %}}                 
 (If you can't read that whole thing, google "Tao Bombieri Vinogradov".)

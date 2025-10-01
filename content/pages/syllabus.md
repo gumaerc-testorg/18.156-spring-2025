@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
-[*18.155 Differential Analysis*](https://ocw.mit.edu/courses/18-155-differential-analysis-fall-2004)
+{{% resource_link "921f786d-7035-4a41-bcc1-89f7416b0db5" "*18.155 Differential Analysis*" %}}
 
 ## Description
 

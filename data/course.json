@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2025",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "2f17c7a3-7591-ca71-e169-9bebd5088368"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1623f898-4f47-4699-a24d-38e72529769e",
+    "website": "projection-theory"
+  },
+  "course_title": "Projection Theory",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "The class studies projection theory, starting from the first questions and building up to recent developments.\u00a0 Projection theory studies how a set *X* behaves under different orthogonal projections. Questions of this type aren't usually emphasized in the graduate analysis curriculum, but they come up in many areas of math, including harmonic analysis, analytic number theory, additive combinatorics, and homogeneous dynamics.\n\nWe will survey several applications of projection theory. For each topic, we will introduce and motivate the topic and see how it connects with projection theory. We will prove something about each topic but not necessarily the strongest results.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.156",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Lecture Videos",
+    "Problem Sets"
+  ],
+  "site_uid": "e5b39f98-2e79-4820-8e81-af10a745f48d",
+  "site_short_id": "18.156-spring-2025",
+  "site_url_path": "courses/18-156-projection-theory-spring-2025"
+}
